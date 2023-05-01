@@ -30,7 +30,7 @@ function Projects() {
               title="Building an AI-Powered 3D Website with React"
               description="An AI-powered 3D platform to design using ML and beyond"
               ghLink="https://github.com/biswajeet6/3D"
-              demoLink="https://subtle-cascaron-eb9640.netlify.app" 
+              demoLink="https://biswajeetdesign.netlify.app" 
             />
           </Col>
           
